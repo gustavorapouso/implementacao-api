@@ -4,6 +4,7 @@
 PokéAPI
 
 ## 2. O que ela devolver?
+Informações dos pokémon, como uma foto, a altura, peso, tipo e uma breve descrição do que ele é e faz.
 
 ## 3. O endereço que você chamou?
 https://pokeapi.co/api/v2/pokemon/ 
@@ -12,6 +13,7 @@ https://pokeapi.co/api/v2/pokemon/
 Entrar no site e escrever o nome do pokémon que deseja, ele retornará o pokémon escolhido com foto e fatos sobre ele.
 
 ## 5. Um print da tela funcionando?
+<img width="986" height="841" alt="image" src="https://github.com/user-attachments/assets/535aa66c-2e17-43ef-b7fc-b615a4ca47f0" />
 
 ## 6. Uma dificuldade que você teve?
-Uma dificuldade seria colocar a descrição sobre o pokémon.
+Uma dificuldade encontrada foi de colocar a descrição sobre o pokémon e deixar ela em português (não conseguimos).
